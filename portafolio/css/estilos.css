@@ -1,3 +1,4 @@
+/* Estructura */
 body {
   background: url(../img/background.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -8,4 +9,13 @@ body {
 
 .header{
 	margin-top:13%;
+}
+
+.footer{
+	background-color:#4b4b4b;
+}
+/* Textos */
+.text-footer {
+	color: white;
+	font-weight:bold;
 	}
