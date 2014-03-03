@@ -11,8 +11,38 @@ body {
 	margin-top:14%;
 }
 
+/*Footer*/
 .footer{
 	background-color:#4b4b4b;
+}
+
+.footer-hr-pink { display: block; height: 8px;
+    background-color: #ff0082;
+    border: 5px; border-top: 1px solid #ff0082;
+    width:15%;
+	float:left; 
+}
+
+	
+.footer-hr-lblue { display: block; height: 8px;
+    background-color: #4099FF;
+    border: 5px; border-top: 1px solid #4099FF;
+    width:15%;
+	float:left; 
+}
+
+.footer-hr-dblue { display: block; height: 8px;
+    background-color: #0e76a8;
+    border: 5px; border-top: 1px solid #0e76a8;
+    width:15%;
+	float:left; 
+}
+
+.footer-hr-black { display: block; height: 8px;
+    background-color: #000000;
+    border: 5px; border-top: 1px solid #000000;
+    width:15%;
+	float:left; 
 }
 
 
@@ -20,4 +50,6 @@ body {
 .text-footer {
 	color: white;
 	font-weight:bold;
+	vertical-align:text-top;
+	padding-left:5%;
 	}
